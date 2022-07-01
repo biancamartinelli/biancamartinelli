@@ -8,7 +8,7 @@
 
 #👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
 
-#👩🏻‍💻Estou começando do 0 os estudos de programação através da linguagem C
+#🪐Estou começando do 0 os estudos de programação através da linguagem C
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
