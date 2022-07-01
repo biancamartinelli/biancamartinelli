@@ -7,7 +7,9 @@
 
 #👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
 
-<div class="tenor-gif-embed" data-postid="22068584" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/bongo-cat-codes-gif-22068584">Bongo Cat Codes GIF</a>from <a href="https://tenor.com/search/bongo+cat+codes-gifs">Bongo Cat Codes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
 ### 🤖 Ferramentas e Tecnologias
