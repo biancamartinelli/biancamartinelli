@@ -1,13 +1,13 @@
 ## Olá, me chamo Bianca ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-👾Tenho 28 anos e estou em transição de carreira!
+#👾Tenho 28 anos e estou em transição de carreira!
 
-💀Atualmente estou estudando Análises e Dsenvolvimento de Sistemas pela universidade Centro Universitário Central Paulista - UNICEP
+#💀Atualmente estou estudando Análises e Dsenvolvimento de Sistemas pela Universidade Centro Universitário Central Paulista - UNICEP
 
-👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
+#👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
 
-
+<div class="tenor-gif-embed" data-postid="22068584" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/bongo-cat-codes-gif-22068584">Bongo Cat Codes GIF</a>from <a href="https://tenor.com/search/bongo+cat+codes-gifs">Bongo Cat Codes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ### 🤖 Ferramentas e Tecnologias
@@ -36,4 +36,3 @@
 </div>
 
 
-![Snake animation](https://github.com/biancamartinelli/biancamartinelli/blob/output/github-contribution-grid-snake.svg)
