@@ -1,4 +1,5 @@
-## Olá, me chamo Bianca ! 
+## Olá Devs, me chamo Bianca !   
+
 ### Bem vindo ao meu perfil GitHub 👋
 
 #👾Tenho 28 anos e estou em transição de carreira!
@@ -37,8 +38,8 @@
 ##
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
