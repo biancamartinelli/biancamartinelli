@@ -4,7 +4,7 @@
 
 #👾Tenho 28 anos e estou em transição de carreira!
 
-#💀Atualmente estou estudando Análises e Dsenvolvimento de Sistemas 
+#💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
 #👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
 
