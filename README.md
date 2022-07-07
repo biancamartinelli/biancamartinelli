@@ -6,7 +6,9 @@
 
 #💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
-#👽Estou estudando também através de cursos nas plataformas Alura e Udemy as linguagens Ruby e Python.
+#👽Estou estudando também através de cursos nas plataformas YouTube e Udemy a linguagem Ruby 
+
+#🧠Tenho interesse em ser uma desenvolvedora Back-End 
 
 #🪐Estou começando do 0 os estudos de programação através da linguagem C
 
