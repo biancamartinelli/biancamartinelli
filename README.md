@@ -52,4 +52,6 @@
 </p>
 
 ## Meu cartão de troféus
-<a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/1/VoidPrincess-.png" border="0"></a>
+<p align="center">
+<a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
+</p>
