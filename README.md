@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-#👾Tenho 28 anos e estou em transição de carreira!
+#👾Sou formada em Farmácia e estou em transição de carreira!
 
 #💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
