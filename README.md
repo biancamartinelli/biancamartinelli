@@ -1,18 +1,18 @@
-## Olá Devs, me chamo Bianca !   
+## 👩🏻‍💻 Olá Devs, me chamo Bianca !   
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-#👾Sou formada em Farmácia e estou em transição de carreira!
+👾Sou formada em Farmácia e estou em transição de carreira!
 
-#💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
+💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
-#👽Estou estudando também através de cursos nas plataformas YouTube e Udemy a linguagem Ruby 
+👽Estou estudando também através de cursos nas plataformas YouTube e Udemy a linguagem Ruby 
 
-#🧠Tenho interesse em ser uma desenvolvedora Back-End 
+🧠Tenho interesse em ser uma desenvolvedora Back-End 
 
-#🪐Comecei do 0 os estudos de programação através da linguagem C
+🪐Comecei do 0 os estudos de programação através da linguagem C
 
-#🎮E nos tempos livres eu gosto de jogar e ir atrás de platinas
+🎮E nos tempos livres eu gosto de jogar e ir atrás de platinas
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -20,23 +20,24 @@
 
 ##
 
-###  Ferramentas e Tecnologias:
+###  Sistemas:
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a> 
+###  Ferramentas:
+
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a> 
-
 
 
 ### Estou aprendendo:
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 
-                     
-          
-            
+
+                               
 ### Contatos:
 
 <div>
@@ -56,3 +57,7 @@
 <p align="center">
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
 </p>
+
+
+
+
