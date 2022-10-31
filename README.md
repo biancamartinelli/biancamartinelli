@@ -1,22 +1,27 @@
-## 👩🏻‍💻 Olá Devs, me chamo Bianca !   
+<p align="center">
+<img src="https://imgur.com/IePq9f5.jpg"/>
+</p>
 
-### Bem vindo ao meu perfil GitHub 👋
+
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, Sou Bianca</h1>
+
+<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" min-width="400px" max-width="400px" width="400px" align="right">
+   
+
+### Bem vindo ao meu perfil GitHub 👩🏻‍💻
 
 👾Sou formada em Farmácia e estou em transição de carreira!
 
 💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
-👽Estou estudando também através de cursos nas plataformas YouTube e Udemy a linguagem Ruby 
+👽Estou estudando também através de cursos a linguagem Ruby 
 
 🧠Tenho interesse em ser uma desenvolvedora Back-End 
 
 🪐Comecei do 0 os estudos de programação através da linguagem C
 
-🎮E nos tempos livres eu gosto de jogar e ir atrás de platinas
+🎮E nos tempos livres eu gosto de jogar e ir atrás de platinas!
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
 
 ##
 
