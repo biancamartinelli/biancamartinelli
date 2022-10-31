@@ -5,7 +5,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, Sou Bianca</h1>
 
-<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif" min-width="350px" max-width="350px" width="300px" align="right">
    
 
 ### Bem vindo ao meu perfil GitHub 👩🏻‍💻
