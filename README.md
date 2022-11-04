@@ -14,7 +14,7 @@
 
 💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
 
-👽Estou estudando também através de cursos a linguagem Ruby 
+👽Estou estudando também através de cursos a linguagem Phyton 
 
 🧠Tenho interesse em ser uma desenvolvedora Back-End 
 
