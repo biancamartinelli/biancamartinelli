@@ -12,9 +12,9 @@
 
 👾Sou formada em Farmácia e estou em transição de carreira!
 
-💀Atualmente estou estudando Análises e Desenvolvimento de Sistemas 
+💀Atualmente estou cursando Análises e Desenvolvimento de Sistemas 
 
-👽Estou estudando também através de cursos a linguagem Python
+👩🏻‍💻Estou estudando também através de cursos a linguagem Python e Segurança Digital 
 
 🧠Tenho interesse em ser uma desenvolvedora Back-End 
 
