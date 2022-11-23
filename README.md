@@ -5,7 +5,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, Sou Bianca</h1>
 
-<img src="https://media.tenor.com/r7dqZ6cyywoAAAAd/cat-computer.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" min-width="300px" max-width="300px" width="300px" align="right">
    
 
 ### Bem vindo ao meu perfil GitHub 👩🏻‍💻
