@@ -10,41 +10,52 @@
 
 ### Bem vindo ao meu perfil GitHub 👩🏻‍💻
 
-👾Sou formada em Farmácia e estou em transição de carreira!
+👾Sou graduada em Farmácia e estou em transição de carreira! 
 
-💀Atualmente estou cursando Análises e Desenvolvimento de Sistemas 
+🪐Atualmente estou cursando Tecnólogo em  Análises e Desenvolvimento de Sistemas. 
 
-👩🏻‍💻Estou estudando também através de cursos a linguagem Python e Segurança Digital 
+👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagens Ruby on Rails, Python e Banco de dados MySQL
 
-🧠Tenho interesse em ser uma desenvolvedora Back-End 
+💥Tenho buscado estágio na área e quero fazer a diferença no mundo da tecnologia e estudo todos os dias para me tornar cada vez melhor e escrever códigos de qualidade.
 
-🪐Comecei do 0 os estudos de programação através da linguagem C
+🎮E nas horas vagas eu gosto de jogar!
 
-🎮E nos tempos livres eu gosto de jogar e ir atrás de platinas!
+## 💡 Acesso ao meu Portifólio
+[Você pode acessar o meu portifólio aqui!](https://biancamartinelli.github.io/)
 
 
 ##
 
-###  Sistemas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+## ☄️ Minhas Skills:
 
-###  Ferramentas:
+
+###  Systems:                                                                                                                          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+###  Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 
-### Estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+### Back-end:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 
+### Front-end:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
+    
 
-                               
-### Contatos:
+### Database:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+          
+                             
+### Contacts:
 
 <div>
 
 <a href = "mailto:bianca.amartinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/biancamartinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-## Minhas estatísticas
+## My Status
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
@@ -53,7 +64,7 @@
 </a>
 </p>
 
-## Meu cartão de troféus
+## My Trophy Card
 <p align="center">
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
 </p>
