@@ -21,7 +21,7 @@
 🎮E nas horas vagas eu gosto de jogar!
 
 ## 💡 Acesso ao meu Portifólio
-[Você pode acessar o meu portifólio aqui!](https://biancamartinelli.github.io/)
+[Portifólio!](https://biancamartinelli.github.io/)
 
 
 ##
