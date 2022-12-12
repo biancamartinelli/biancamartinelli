@@ -14,7 +14,7 @@
 
 🪐Atualmente estou cursando Tecnólogo em  Análises e Desenvolvimento de Sistemas. 
 
-👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagens Ruby on Rails, Python e Banco de dados MySQL
+👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagens Ruby, Python e Banco de dados MySQL
 
 💥Tenho buscado estágio na área e quero fazer a diferença no mundo da tecnologia e estudo todos os dias para me tornar cada vez melhor e escrever códigos de qualidade.
 
