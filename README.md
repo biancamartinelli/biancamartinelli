@@ -14,7 +14,7 @@
 
 🪐Atualmente estou cursando Tecnólogo em  Análises e Desenvolvimento de Sistemas. 
 
-👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagens Ruby, Python e Banco de dados MySQL
+👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagem Ruby e Banco de dados MySQL
 
 💥Tenho buscado estágio na área e quero fazer a diferença no mundo da tecnologia e estudo todos os dias para me tornar cada vez melhor e escrever códigos de qualidade.
 
@@ -38,7 +38,7 @@
 
 
 ### Back-end:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/> 
 
 ### Front-end:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
