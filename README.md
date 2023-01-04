@@ -3,7 +3,7 @@
 </p>
 
 
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, Sou Bianca</h1>
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, I'm Bianca</h1>
 
 <img src="https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" min-width="300px" max-width="300px" width="300px" align="right">
    
@@ -26,7 +26,7 @@
 
 ##
 
-### ☄️ Minhas Skills:
+### My Skills:
 
 
 <img align="left" alt="ruby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ruby/ruby.png" />
@@ -66,6 +66,8 @@
 </a>
 </p>
 
+##
+   
 ### My Trophy Card
 <p align="center">
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
