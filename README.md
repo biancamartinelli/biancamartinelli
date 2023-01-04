@@ -1,15 +1,23 @@
-<p align="center">
-<img src="https://imgur.com/IePq9f5.jpg"/>
-</p>
-
-
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs, I'm Bianca</h1>
-
 <img src="https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" min-width="300px" max-width="300px" width="300px" align="right">
-   
 
-### Welcome to my GitHub profile 👩🏻‍💻
 
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Bianca Martinelli</h1>
+ <a href="https://www.instagram.com/_biancamartinelli/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/_voidprincess_">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/biancamartinelli">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
+
+## Hey Devs!
 👾 I'm a Pharmacy graduate and I'm in career transition!
 
 🪐Currently I am studying Technologist in Systems Analysis and Development.
