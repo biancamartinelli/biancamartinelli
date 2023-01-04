@@ -34,13 +34,23 @@
                              
 ### Contacts:
 
+
 <div>
 
-<a href = "mailto:bianca.amartinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/biancamartinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://medium.com/@bianca-martinelli"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+[<img align="left" alt="biancamartinelli | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="biancamartinelli | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="biancamartinelli | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="biancamartinelli | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-##
+[twitter]: https://twitter.com/_voidprincess_
+[instagram]: https://instagram.com/_biancamartinelli_
+[linkedin]: https://www.linkedin.com/in/biancamartinelli/
+[medium]: https://medium.com/@bianca-martinelli
 
-### My Status
+<br /> 
+
+
+## My Status
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
