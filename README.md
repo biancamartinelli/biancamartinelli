@@ -8,20 +8,20 @@
 <img src="https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" min-width="300px" max-width="300px" width="300px" align="right">
    
 
-### Bem vindo ao meu perfil GitHub 👩🏻‍💻
+### Welcome to my GitHub profile 👩🏻‍💻
 
-👾Sou graduada em Farmácia e estou em transição de carreira! 
+👾 I'm a Pharmacy graduate and I'm in career transition!
 
-🪐Atualmente estou cursando Tecnólogo em  Análises e Desenvolvimento de Sistemas. 
+🪐Currently I am studying Technologist in Systems Analysis and Development.
 
-👩🏻‍💻Tenho estudado desenvolvimento back-end e com as linguagens Ruby, Python e Banco de dados MySQL
+👩🏻‍💻I have been studying back-end development and with Ruby, Python and MySQL Database languages
 
-💥Tenho buscado estágio na área e quero fazer a diferença no mundo da tecnologia e estudo todos os dias para me tornar cada vez melhor e escrever códigos de qualidade.
+💥I've been looking for an internship in the area and I want to make a difference in the world of technology and I study every day to become better and better and write quality codes.
 
-🎮E nas horas vagas eu gosto de jogar!
+🎮And in my spare time I like to play!
 
-## 💡 Acesso ao meu Portifólio
-[Portifólio!](https://biancamartinelli.github.io/)
+## 💡 Access to my Portfolio
+[Portfolio!](https://biancamartinelli.github.io/)
 
 
 ##
@@ -54,7 +54,7 @@
 
 <div>
 
-<a href = "mailto:bianca.amartinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/biancamartinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:bianca.amartinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/biancamartinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://medium.com/@bianca-martinelli"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 ## My Status
 
