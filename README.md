@@ -1,5 +1,8 @@
-<img src="https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" min-width="300px" max-width="300px" width="300px" align="right">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/VajDLs4.png">
+</br>
+</br>
 
+<div dsplay="inline-block">
 
 <div dsplay="inline-block">
  
@@ -14,66 +17,49 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
+ 
+## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
+Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
-
-
-## Hey Devs!
-👾 I'm a Pharmacy graduate and I'm in career transition!
-
-🪐Currently I am studying Technologist in Systems Analysis and Development.
-
-👩🏻‍💻I have been studying back-end development and with Ruby, Python and MySQL Database languages
-
-💥I've been looking for an internship in the area and I want to make a difference in the world of technology and I study every day to become better and better and write quality codes.
-
-🎮And in my spare time I like to play!
-
-### 💡 Access to my Portfolio
-[Portfolio!](https://biancamartinelli.github.io/)
-
+ <p align="center">
+  <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="350">
+</p>
 
 ##
 
 ### My Skills:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="30" />
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/xOAKMMx.png">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="30" />
+ 
+##
+📚 Tenho estudado Ruby e iniciei meus estudos para ser uma Desenvolvedora Web; 
+ 
+👩🏻‍💻 Quero fazer a diferença no mundo da tecnologia e estudo a cada dia para me tornar cada vez melhor e escrever códigos de qualidade;
 
-                             
-### Contacts:
+📷 Estou em transição de carreira, 
 
+🎮 Adoro games (mas sou muito ruim em todos) e adoro ir atrás de platinas.
 
-<div>
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/biancamartinelli/) ou [E-mail](mailto:bianca.amartinelli@gmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
-[<img align="left" alt="biancamartinelli | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="biancamartinelli | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="biancamartinelli | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="biancamartinelli | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-[twitter]: https://twitter.com/_voidprincess_
-[instagram]: https://instagram.com/_biancamartinelli_
-[linkedin]: https://www.linkedin.com/in/biancamartinelli/
-[medium]: https://medium.com/@bianca-martinelli
-
-<br /> 
-
-
+                           
 ## My Status
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
 
 ##
    
 ### My Trophy Card
-<p align="center">
+<p align="left">
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
 </p>
 
-
-
+ 
 
