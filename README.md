@@ -7,7 +7,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Bianca Martinelli</h1>
- <a href="https://www.instagram.com/_biancamartinelli/">
+ <a href="https://www.instagram.com/_biancamartinelli_/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/_voidprincess_">
