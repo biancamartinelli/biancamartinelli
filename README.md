@@ -46,7 +46,7 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/biancamartinelli/) ou [E-mail](mailto:bianca.amartinelli@gmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
                              
-## My GitHub Status
+## My GitHub Stats
 
 <p align="left">
 <a href="https://github.com/biancamartinelli">
