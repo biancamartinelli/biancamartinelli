@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fec89a&height=120&section=header"/>
+
 <img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/VajDLs4.png">
 </br>
 </br>
@@ -63,5 +65,8 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
 </p>
 
- 
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=biancamartinelli&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fec89a&height=120&section=footer"/>
