@@ -54,11 +54,11 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
  
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
  
-### I'm currently playing
+### I'm Currently Playing
  
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
 
-
+##
                              
 ## My GitHub Stats
 
