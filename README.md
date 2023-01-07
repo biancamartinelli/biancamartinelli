@@ -7,7 +7,8 @@
 <div dsplay="inline-block">
 
 <div dsplay="inline-block">
- 
+
+
  <h1 align="left">Bianca Martinelli</h1>
  <a href="https://www.instagram.com/_biancamartinelli_/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
@@ -19,6 +20,8 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=true&background_color=030303&bar_color_cover=false&bar_color=db8fe0)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
 Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 💜
