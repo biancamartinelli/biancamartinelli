@@ -21,7 +21,7 @@
 </div>
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
-Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 💜
 
  <p align="center">
   <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="350">
