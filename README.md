@@ -67,9 +67,6 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 </p>
  
  
- ##
-   
-
 <p align="left">
 <a href="https://github.com/biancamartinelli">
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
