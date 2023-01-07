@@ -60,7 +60,7 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
  
  ##
    
-### My Trophy Card
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
