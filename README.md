@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fec89a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb2ff&height=120&section=header"/>
 
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/VajDLs4.png">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/bxOtB6r.png">
 </br>
 </br>
 
@@ -31,7 +31,7 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 
 ### My Skills:
 
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/xOAKMMx.png">
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/lRH9frj.png">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="30" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="30" />
  
@@ -52,8 +52,8 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 
 <p align="left">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=onedark"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
  
@@ -62,10 +62,10 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
    
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=biancamartinelli&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=biancamartinelli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fec89a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb2ff&height=120&section=footer"/>
