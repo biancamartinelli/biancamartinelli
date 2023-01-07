@@ -47,6 +47,18 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 
 📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/biancamartinelli/) ou [E-mail](mailto:bianca.amartinelli@gmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
+
+##
+ 
+### My Game Card
+ 
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
+ 
+### I'm currently playing
+ 
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
+
+
                              
 ## My GitHub Stats
 
