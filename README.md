@@ -61,10 +61,9 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
  ##
    
 ### My Trophy Card
-<p align="left">
-<a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0"></a> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=biancamartinelli&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
