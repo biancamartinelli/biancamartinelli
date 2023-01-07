@@ -51,10 +51,7 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
 ## My GitHub Stats
 
 <p align="left">
-<a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=material-palenight"/>
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
  
@@ -62,9 +59,11 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
    
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biancamartinelli&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<a href="https://github.com/biancamartinelli">
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=material-palenight"/>
+</a>
 </p>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=biancamartinelli&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
