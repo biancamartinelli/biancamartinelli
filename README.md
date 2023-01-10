@@ -25,7 +25,7 @@
  
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
-Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 💜
+I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming and games! I'm a beginner in the world of programming, official bug hunter, and the more I learn and get angry, the more I love it all! 💜
 
  <p align="center">
   <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="350">
@@ -41,16 +41,16 @@ Tenho 29 anos, moro em São Carlos/SP e sou apaixonada por programação e jogos
  
 
 ##
-📚 Tenho estudado Ruby e iniciei meus estudos para ser uma Desenvolvedora Web; 
+📚 I've been studying Ruby and started my studies to be a Web Developer;
  
-👩🏻‍💻 Quero fazer a diferença no mundo da tecnologia e estudo a cada dia para me tornar cada vez melhor e escrever códigos de qualidade;
+👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
 
-📷 Estou em transição de carreira, 
+📷 I am in career transition,
 
-🎮 Adoro games (mas sou muito ruim em todos) e adoro ir atrás de platinas.
+🎮 I love games (but I'm really bad at them all) and I love going after platinum.
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/biancamartinelli/) ou [E-mail](mailto:bianca.amartinelli@gmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
+📫 You can talk to me at [Linkedin](https://www.linkedin.com/in/biancamartinelli/) or [E-mail](mailto:bianca.amartinelli@gmail.com) and you can learn about my projects already developed, which are available here in the repositories. =)
+ 
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=blueviolet&style=plastic)
 ##
  
