@@ -71,7 +71,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR"/> <!--<img height="140em" src="https://activity-graph.herokuapp.com/graph?username=biancamartinelli&theme=tokyonightt&hide_border=true">--><img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=tokyonight"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=tokyonight"/>
 </a>
 </p>
 
