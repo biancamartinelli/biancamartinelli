@@ -66,7 +66,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
                              
 ## My GitHub Stats
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/biancamartinelli">
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=5"/>
