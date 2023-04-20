@@ -42,7 +42,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 
 ##
-📚 I've been studying Golang and started my studies to be a Web Developer;
+📚 I've been studying Golang, Ruby on Rails and started my studies to be a Web Developer;
  
 👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
 
