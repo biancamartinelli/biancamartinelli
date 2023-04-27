@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9184a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=120&section=header"/>
 
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/J2UXSfu.png">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/wRqJred.png">
 </br>
 </br>
 
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=9ef01a&bar_color_cover=false&bar_color=9ef01a)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
  
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
@@ -35,7 +35,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 ### My Skills:
 
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/fHpSZeH.png">
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="30"/>
@@ -78,4 +78,4 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 </p>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff3f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=120&section=footer"/>
