@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb2ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ef01a&height=120&section=header"/>
 
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/bxOtB6r.png">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/J2UXSfu.png">
 </br>
 </br>
 
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&bar_color_cover=false&bar_color=cb7de8)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=9ef01a&bar_color_cover=false&bar_color=9ef01a)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
  
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
@@ -35,7 +35,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 ### My Skills:
 
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/LDscKio.png">
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/fHpSZeH.png">
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="30"/>
@@ -71,11 +71,11 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=tokyonight&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=tokyonight"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=merko&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=merko&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=merko&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=merko"/>
 </a>
 </p>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdb2ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ef01a&height=120&section=footer"/>
