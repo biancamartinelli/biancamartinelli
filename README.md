@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ef01a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9184a&height=120&section=header"/>
 
 <img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/J2UXSfu.png">
 </br>
@@ -71,11 +71,11 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=merko&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=merko&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=merko&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=merko"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=omni&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=omni&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=omni&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=omni"/>
 </a>
 </p>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9ef01a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff3f&height=120&section=footer"/>
