@@ -54,7 +54,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 📫 You can talk to me at [Linkedin](https://www.linkedin.com/in/biancamartinelli/) or [E-mail](mailto:bianca.amartinelli@gmail.com) and you can learn about my projects already developed, which are available here in the repositories. =)
  
-![](https://komarev.com/ghpvc/?username=biancamartinelli&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 ##
  
 ### My Game Card
