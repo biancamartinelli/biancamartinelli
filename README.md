@@ -36,11 +36,11 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 ##
 
 ### My Skills:
-![My Skills](https://skillicons.dev/icons?i=ruby,rails,go,html,css,js,sass,tailwind,bootstrap,nodejs,react,wordpress,git,github,figma,vscode,docker,postgres,mysql,mongodb,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=go,html,css,js,sass,tailwind,bootstrap,nodejs,react,wordpress,git,github,figma,vscode,docker,postgres,mysql,mongodb,&theme=light)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
 
 ##
-📚 I've been studying Golang, Ruby on Rails and started my studies to be a Web Developer;
+📚 I've been studying Golang and started my studies to be a Web Developer;
  
 👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
 
