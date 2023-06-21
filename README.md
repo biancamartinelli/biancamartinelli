@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4333E8&height=120&section=header"/>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/107266212/235274104-22ec98bf-88e7-4cda-90bc-66744f8f16cc.png">
 
 
@@ -67,11 +67,11 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=omni&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=omni&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=omni&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=omni"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=algolia&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=algolia&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=algolia"/>
 </a>
 </p>
 
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff85a1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4333E8&height=120&section=footer"/>
