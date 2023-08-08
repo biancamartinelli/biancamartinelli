@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4333E8&height=120&section=header"/>
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/107266212/235274104-22ec98bf-88e7-4cda-90bc-66744f8f16cc.png">
-
-
 <img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/wRqJred.png">
 </br>
 </br>
@@ -10,8 +6,7 @@
 
 <div dsplay="inline-block">
 
-
- <h1 align="left">Bianca Martinelli</h1>
+ <h1 align="left">Bianca Martinelli ✨</h1>
  <a href="https://www.instagram.com/_biancamartinelli_/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -27,7 +22,7 @@
  
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
-I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming and games! I'm a beginner in the world of programming, official bug hunter, and the more I learn and get angry, the more I love it all! 💜
+I am a student with a passion for technology and creation! My creativity goes beyond what you expect!
 
  <p align="center">
   <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="350">
@@ -36,7 +31,7 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 ##
 
 ### My Skills:
-![My Skills](https://skillicons.dev/icons?i=go,html,css,js,sass,tailwind,bootstrap,nodejs,react,wordpress,git,github,figma,vscode,docker,kubernetes,graphql,postgres,mysql,mongodb,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=go,html,css,js,sass,bootstrap,react,wordpress,git,github,figma,vscode,docker,kubernetes,postgres,mysql&theme=dark)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
 
 ##
@@ -47,8 +42,6 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 📷 I am in career transition,
 
 🎮 I love games (but I'm really bad at them all) and I love going after platinum.
-
-📫 You can talk to me at [Linkedin](https://www.linkedin.com/in/biancamartinelli/) or [E-mail](mailto:bianca.amartinelli@gmail.com) and you can learn about my projects already developed, which are available here in the repositories. =)
  
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 ##
@@ -73,5 +66,3 @@ I'm 29 years old, I live in São Carlos/SP and I'm passionate about programming 
 </a>
 </p>
 
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4333E8&height=120&section=footer"/>
