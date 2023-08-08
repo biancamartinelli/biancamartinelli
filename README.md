@@ -35,7 +35,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
 
 ##
-📚 I've been studying Golang and started my studies to be a Web Developer;
+📚 I've been studying UX/UI Designer & Software Developer;
  
 👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
 
