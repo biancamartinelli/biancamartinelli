@@ -60,9 +60,9 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=dracula&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=dracula&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
+<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=radical&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=radical"/>
 </a>
 </p>
 
