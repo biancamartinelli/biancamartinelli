@@ -26,9 +26,10 @@
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
 I am a student with a passion for technology and creation! My creativity goes beyond what you expect! 
-##
-##
-
+</br>
+</br>
+</br>
+</br>
 <h3>➤ My skills </h3>
 
 ![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,androidstudio,ps,ai,xd,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
