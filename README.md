@@ -63,8 +63,8 @@ I am a student with a passion for technology and creation! My creativity goes be
   <h3>➤ My Gits Stats </h3>
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
 
 </a>
 </p>
