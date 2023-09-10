@@ -56,13 +56,16 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 ##
                              
-## My GitHub Stats
 
+<div style="display: inline_block">
+   <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
+   src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
+  <h3>➤ My Gits Stats </h3>
 <p align="center">
 <a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
-<img height="140em" src= "https://streak-stats.demolab.com?user=biancamartinelli&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/> <img height="140em" src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biancamartinelli&theme=radical&utcOffset=8"/> <img width="500em" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancamartinelli&theme=radical"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
+
 </a>
 </p>
 
