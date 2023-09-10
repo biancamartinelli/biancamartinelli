@@ -59,7 +59,7 @@ I am a student with a passion for technology and creation! My creativity goes be
                              
 
 <div style="display: inline_block">
-   <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
+   <img align="left" alt="hay-lin-pic" height="250" style="border-radius:50px;" 
    src="https://i.imgur.com/e1IcqLj.png">
   <h3>➤ My Stats </h3>
 <p align="left">
