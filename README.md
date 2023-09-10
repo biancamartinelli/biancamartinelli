@@ -26,14 +26,13 @@
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
 I am a student with a passion for technology and creation! My creativity goes beyond what you expect! 
-
-
+##
 ##
 
-### My Skills:
+<h3>➤ My skills </h3>
+
 ![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,androidstudio,ps,ai,xd,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
-
 
 ##
 📚 I've been studying UX/UI Designer & Software Developer;
@@ -62,7 +61,7 @@ I am a student with a passion for technology and creation! My creativity goes be
    <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
    src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
   <h3>➤ My Gits Stats </h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/biancamartinelli">
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=5"/>
