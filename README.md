@@ -1,4 +1,4 @@
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/wRqJred.png">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/fPgUiR4.png">
 </br>
 </br>
 
@@ -32,7 +32,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 <h3>➤ My skills </h3>
 
 ![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,androidstudio,ps,ai,xd,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
 
 ##
 📚 I've been studying UX/UI Designer & Software Developer;
@@ -59,7 +59,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 <div style="display: inline_block">
    <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
-   src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
+   src="https://i.imgur.com/e1IcqLj.png">
   <h3>➤ My Stats </h3>
 <p align="left">
 <a href="https://github.com/biancamartinelli">
