@@ -46,7 +46,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 ##
  
-### My Game Card
+### <h3>➤ My Game Card </h3> 
  
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
  
@@ -60,7 +60,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 <div style="display: inline_block">
    <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
    src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
-  <h3>➤ My Gits Stats </h3>
+  <h3>➤ My Stats </h3>
 <p align="left">
 <a href="https://github.com/biancamartinelli">
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
