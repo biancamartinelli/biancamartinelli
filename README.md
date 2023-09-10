@@ -19,20 +19,21 @@
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
- 
+ <p align="center">
+  <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
+</p> 
+
  
 ## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
-I am a student with a passion for technology and creation! My creativity goes beyond what you expect!
+I am a student with a passion for technology and creation! My creativity goes beyond what you expect! 
 
- <p align="center">
-  <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="350">
-</p>
 
 ##
 
 ### My Skills:
 ![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,androidstudio,ps,ai,xd,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/XGuqL3l.png">
+
 
 ##
 📚 I've been studying UX/UI Designer & Software Developer;
