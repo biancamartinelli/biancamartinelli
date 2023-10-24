@@ -32,7 +32,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 </br>
 <h3>➤ My skills </h3>
 
-![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,androidstudio,ps,ai,xd,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=go,html,css,js,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
 
 ##
