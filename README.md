@@ -36,11 +36,14 @@ I am a student with a passion for technology and creation! My creativity goes be
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
 
 ##
-📚 I've been studying Software Developer & UX/UI Designer;
+
+🏢 Currently interning as Software Developer at Autolab Automação e Sistemas;
+
+📚 I've been studying Software Developer; 
  
 👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
 
-📷 I am in career transition,
+📷 I am in career transition;
 
 🎮 I love games (but I'm really bad at them all) and I love going after platinum.
  
