@@ -37,7 +37,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 ##
 
-🏢 Currently interning as Software Developer at Autolab Automação e Sistemas;
+🏢 Currently interning as UX/UI Designer & Software Developer at Autolab Automação e Sistemas;
 
 📚 I've been studying Software Developer; 
  
