@@ -32,12 +32,12 @@ I am a student with a passion for technology and creation! My creativity goes be
 </br>
 <h3>➤ My skills </h3>
 
-![My Skills](https://skillicons.dev/icons?i=go,html,css,js,vue,sass,tailwind,bootstrap,react,wordpress,figma,docker,kubernetes,postgres,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,bootstrap,react,wordpress,figma,ai,ps,xd,&theme=dark)
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
 
 ##
 
-🏢 Currently interning as UX/UI Designer & Software Developer at Autolab Automação e Sistemas;
+🏢 Currently interning as UX/UI Designer & Front-End Developer at Autolab Automação e Sistemas;
 
 📚 I've been studying Software Developer; 
  
