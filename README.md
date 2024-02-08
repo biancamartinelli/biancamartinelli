@@ -37,11 +37,13 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 ##
 
-🏢 Currently interning as UX/UI Designer & Front-End Developer at Autolab Automação e Sistemas;
+🏢 Currently interning as UX/UI Designer;
 
-📚 I've been studying Software Developer; 
+📚 I've been studying UX/UI Designer; 
  
-👩🏻‍💻 I want to make a difference in the world of technology and I study every day to become better and better and write quality codes;
+👩🏻‍💻 While I initially delved into front-end development including HTML, CSS, JavaScript, Vue.js, my journey has expanded to encompass a broader scope with a primary focus on UX/UI design;
+
+👽In addition to my programming experience, I bring practical experience with design tools like Figma, Adobe XD and Illustrator. These tools have empowered me to not only develop visually appealing and functional user interfaces, but also delve into the complexities of user experience design;
 
 📷 I am in career transition;
 
