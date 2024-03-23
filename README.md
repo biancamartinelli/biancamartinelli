@@ -1,12 +1,14 @@
-<img align="right" width="500px" style="margin-top:-20px" src="https://i.imgur.com/R19ycxJ.png">
-</br>
-</br>
+
 
 <div dsplay="inline-block">
 
 <div dsplay="inline-block">
 
- <h1 align="left">Bianca Martinelli ✨</h1>
+ <h1 align="left">Bianca Martinelli ✨</h1><img align="left" width="500px" style="margin-top:-40px" src="https://i.imgur.com/R19ycxJ.png">
+ </br>
+</br>
+</br>
+</br>
  
  <a href="https://www.instagram.com/_biancamartinelli_/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
@@ -20,15 +22,22 @@
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
- <p align="center">
-  <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
+
+ ## <p align="left">
+</br><img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
 </p> 
 
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!</h1>
-Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
-</br>
-</br>
-</br>
+🎃Sou uma estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
+
+🏢 Atualmente sou UI/UX Designer na empresa TT&T, concentro-me em otimizar a User Interface para proporcionar uma experiência excepcional aos usuários.
+
+⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
+
+🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
+
+🎮 Adoro joagr (mas sou péssima em todos eles) e adoro ir atrás da platinas.
+
+![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 </br>
 <h1>➤ My skills </h1>
 <h3>Adobe</h3>
@@ -52,15 +61,9 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 
 ##
 
-🏢 Atualmente sou UI/UX Designer na empresa TT&T, concentro-me em otimizar a User Interface para proporcionar uma experiência excepcional aos usuários.
 
-⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
-
-🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
-
-🎮 Adoro joagr (mas sou péssima em todos eles) e adoro ir atrás da platinas.
  
-![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
+
 ##
  
 ### <h3>➤ My Game Card </h3> 
