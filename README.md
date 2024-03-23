@@ -32,7 +32,7 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 </br>
 <h1>➤ My skills </h1>
 <h3>Adobe</h3>
-<img align="right" width="500px" style="margin-top:-px" src="https://i.imgur.com/JsIlUdb.png">
+<img align="right" width="450px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-xd.png" alt="adobe-xd"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-illustrator.png" alt="adobe-illustrator"/>
@@ -54,7 +54,9 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 
 🏢 Atualmente sou UI/UX Designer na empresa TT&T, concentro-me em otimizar a User Interface para proporcionar uma experiência excepcional aos usuários.
 
-⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
+⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
+
+🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
 
 🎮 Adoro joagr (mas sou péssimo em todos eles) e adoro ir atrás da platina.
  
