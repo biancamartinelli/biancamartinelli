@@ -39,7 +39,7 @@
 
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 </br>
-<h1>➤ My skills </h1>
+<h1>➤ Skills </h1>
 <h3>Adobe</h3>
 <img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/se5bLaY.png">
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
@@ -60,18 +60,12 @@
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-powerpoint.png" alt="ms-powerpoint"/>
 
 ##
-
-
  
-
-##
- 
-### <h3>➤ My Game Card </h3> 
+### <h3>➤ Meu Game Card </h3> 
  
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
  
-### I'm Currently Playing
- 
+### ➤ Estou jogando
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
 
 ##
@@ -80,7 +74,7 @@
 <div style="display: inline_block">
    <img align="left" alt="hay-lin-pic" height="250" style="border-radius:50px;" 
    src="https://i.imgur.com/PcSc0vM.png">
-  <h3>➤ My Stats </h3>
+  <h3>➤ Status </h3>
 <p align="left">
 <a href="https://github.com/biancamartinelli">
 <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
