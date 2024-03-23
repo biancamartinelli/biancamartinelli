@@ -7,6 +7,7 @@
 <div dsplay="inline-block">
 
  <h1 align="left">Bianca Martinelli ✨</h1>
+ 
  <a href="https://www.instagram.com/_biancamartinelli_/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -23,31 +24,39 @@
   <img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
 </p> 
 
- 
-## <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!
-I am a student with a passion for technology and creation! My creativity goes beyond what you expect! 
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hey Devs!</h1>
+Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
 </br>
 </br>
 </br>
 </br>
-<h3>➤ My skills </h3>
+<h1>➤ My skills </h1>
+<h3>Adobe</h3>
+<img align="right" width="500px" style="margin-top:-px" src="https://i.imgur.com/JsIlUdb.png">
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-xd.png" alt="adobe-xd"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-illustrator.png" alt="adobe-illustrator"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-indesign.png" alt="adobe-indesign"/>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,sass,tailwind,bootstrap,wordpress,figma,ai,ps,xd,&theme=dark)
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
+
+##
+<h3>Software criativo</h3>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/figma.png" alt="figma"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/canva.png" alt="canva"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/chatgpt.png" alt="chatgpt"/>
+
+##
+<h3>Microsoft</h3>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-word.png" alt="ms-word"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-powerpoint.png" alt="ms-powerpoint"/>
 
 ##
 
-🏢 Currently interning as UX/UI Designer;
+🏢 Atualmente sou UI/UX Designer na empresa TT&T, concentro-me em otimizar a User Interface para proporcionar uma experiência excepcional aos usuários.
 
-📚 I've been studying UX/UI Designer; 
- 
-👩🏻‍💻 While I initially delved into front-end development including HTML, CSS, JavaScript, Vue.js, my journey has expanded to encompass a broader scope with a primary focus on UX/UI design;
+⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
 
-👽In addition to my programming experience, I bring practical experience with design tools like Figma, Adobe XD and Illustrator. These tools have empowered me to not only develop visually appealing and functional user interfaces, but also delve into the complexities of user experience design;
-
-📷 I am in career transition;
-
-🎮 I love games (but I'm really bad at them all) and I love going after platinum.
+🎮 Adoro joagr (mas sou péssimo em todos eles) e adoro ir atrás da platina.
  
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 ##
