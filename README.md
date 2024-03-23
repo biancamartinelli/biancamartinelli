@@ -1,4 +1,4 @@
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/fPgUiR4.png">
+<img align="right" width="500px" style="margin-top:-20px" src="https://i.imgur.com/R19ycxJ.png">
 </br>
 </br>
 
@@ -32,7 +32,7 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 </br>
 <h1>➤ My skills </h1>
 <h3>Adobe</h3>
-<img align="right" width="450px" style="margin-top:-20px" src="https://i.imgur.com/JsIlUdb.png">
+<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/se5bLaY.png">
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-xd.png" alt="adobe-xd"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-illustrator.png" alt="adobe-illustrator"/>
@@ -58,7 +58,7 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 
 🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
 
-🎮 Adoro joagr (mas sou péssimo em todos eles) e adoro ir atrás da platina.
+🎮 Adoro joagr (mas sou péssima em todos eles) e adoro ir atrás da platinas.
  
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 ##
@@ -76,7 +76,7 @@ Sou um estudante apaixonada por tecnologia e criação! Minha criatividade vai a
 
 <div style="display: inline_block">
    <img align="left" alt="hay-lin-pic" height="250" style="border-radius:50px;" 
-   src="https://i.imgur.com/e1IcqLj.png">
+   src="https://i.imgur.com/PcSc0vM.png">
   <h3>➤ My Stats </h3>
 <p align="left">
 <a href="https://github.com/biancamartinelli">
