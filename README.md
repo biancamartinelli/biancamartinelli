@@ -9,16 +9,22 @@
 </br>
 </br>
 </br>
- 
- <a href="https://www.instagram.com/_biancamartinelli_/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+
+ <a href="https://biancamartinelli.super.site/">
+   <img width="80" height="80" src="https://img.icons8.com/clouds/100/internet-explorer-window.png" alt="internet-explorer-window"/>
+ </a> 
+ <a href="https://dribbble.com/bianca_martinelli">
+    <img width="80" height="80" src="https://img.icons8.com/clouds/100/dribbble.png" alt="dribbble" style="vertical-align:top;"/>
   </a> 
-  <a href="https://twitter.com/_voidprincess_">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  <a href="https://www.behance.net/bianca_martinelli">
+    <img width="80" height="80" src="https://img.icons8.com/clouds/100/behance.png" alt="behance" style="vertical-align:top;"/>
   </a>
   <a href="https://www.linkedin.com/in/biancamartinelli">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a href="https://drive.google.com/file/d/1tUHh77fCxlojG2_fhk8gUU7tTrxbNEQm/view">
+   <img width="80" height="80" src="https://img.icons8.com/clouds/100/resume.png" alt="resume"/>
+   </a>
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
