@@ -4,26 +4,26 @@
 
 <div dsplay="inline-block">
 
- <h1 align="left">Bianca Martinelli ✨</h1><img align="left" width="500px" style="margin-top:-40px" src="https://i.imgur.com/R19ycxJ.png">
+ <h1 align="left">Bianca Martinelli ✨</h1><img align="left" width="450px" style="margin-top:-20px" src="https://i.imgur.com/R19ycxJ.png">
  </br>
 </br>
 </br>
 </br>
 
  <a href="https://biancamartinelli.super.site/">
-   <img width="80" height="80" src="https://img.icons8.com/clouds/100/internet-explorer-window.png" alt="internet-explorer-window"/>
+   <img width="70" height="70" src="https://img.icons8.com/clouds/100/internet-explorer-window.png" alt="internet-explorer-window"/>
  </a> 
  <a href="https://dribbble.com/bianca_martinelli">
-    <img width="80" height="80" src="https://img.icons8.com/clouds/100/dribbble.png" alt="dribbble" style="vertical-align:top;"/>
+    <img width="70" height="70" src="https://img.icons8.com/clouds/100/dribbble.png" alt="dribbble" style="vertical-align:top;"/>
   </a> 
   <a href="https://www.behance.net/bianca_martinelli">
-    <img width="80" height="80" src="https://img.icons8.com/clouds/100/behance.png" alt="behance" style="vertical-align:top;"/>
+    <img width="70" height="70" src="https://img.icons8.com/clouds/100/behance.png" alt="behance" style="vertical-align:top;"/>
   </a>
   <a href="https://www.linkedin.com/in/biancamartinelli">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="70px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
   <a href="https://drive.google.com/file/d/1tUHh77fCxlojG2_fhk8gUU7tTrxbNEQm/view">
-   <img width="80" height="80" src="https://img.icons8.com/clouds/100/resume.png" alt="resume"/>
+   <img width="70" height="70" src="https://img.icons8.com/clouds/100/resume.png" alt="resume"/>
    </a>
 </div>
 
