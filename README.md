@@ -41,7 +41,7 @@
 
 🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
 
-🎮 Adoro joagr (mas sou péssima em todos eles) e adoro ir atrás da platinas.
+🎮 Adoro jogar (mas sou péssima em todos eles) e adoro ir atrás da platinas.
 
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
 </br>
