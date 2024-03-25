@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/biancamartinelli">
     <img width="70px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-  <a href="https://drive.google.com/file/d/1tUHh77fCxlojG2_fhk8gUU7tTrxbNEQm/view">
-   <img width="70" height="70" src="https://img.icons8.com/clouds/100/resume.png" alt="resume"/>
-   </a>
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
