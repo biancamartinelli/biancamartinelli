@@ -32,7 +32,7 @@
 
 🎃Sou uma estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
 
-🏢 Atualmente sou UI/UX Designer na empresa TT&T, concentro-me em otimizar a User Interface para proporcionar uma experiência excepcional aos usuários.
+🏢 Atualmente, contribuo como UI/UX Designer em um projeto voluntário na TT&T, otimizando interfaces para proporcionar uma experiência excepcional aos usuários, enquanto trabalho como Designer Digital na Elevcode, colaborando em projetos de design para diversas plataformas e aplicativos.
 
 ⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
 
