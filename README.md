@@ -63,10 +63,6 @@
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-powerpoint.png" alt="ms-powerpoint"/>
 
 ##
-
-### <h3>➤ Meu Game Card </h3> 
-
-<a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" width="450px"></a>
 ### <h3>➤ Meu Game Card </h3> 
  
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
