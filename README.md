@@ -32,7 +32,7 @@
 
 🎃Sou uma estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
 
-🏢 Atualmente, trabalho como UI/UX Designer na Elevcode, colaborando em projetos de design de interfaces para diversas plataformas e aplicativos, enquanto contribuo como UI/UX Designer em um projeto voluntário na TT&T, otimizando interfaces para proporcionar uma experiência excepcional aos usuários.
+🏢 Atualmente, trabalho como UI/UX Designer na Elevcode, colaborando em projetos de design de interfaces para diversas plataformas e aplicativos, otimizando interfaces para proporcionar uma experiência excepcional aos usuários.
 
 ⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
 
@@ -69,7 +69,7 @@
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
  
 ### ➤ Estou jogando
-<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
 
 ##
                              
