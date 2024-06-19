@@ -63,7 +63,13 @@
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-powerpoint.png" alt="ms-powerpoint"/>
 
 ##
+
+### <h3>➤ Meu Game Card </h3> 
  
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
+ 
+### ➤ Estou jogando
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
 
 
 ##
