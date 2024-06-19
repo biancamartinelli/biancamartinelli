@@ -69,7 +69,7 @@
 <a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
  
 ### ➤ Estou jogando
-<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess--jogo.png" border="0"></a>
+<a href="https://mypst.com.br/rank/VoidPrincess-"><img src="https://mypst.com.br/media/card/a/VoidPrincess-.png" border="0"></a>
 
 ##
                              
