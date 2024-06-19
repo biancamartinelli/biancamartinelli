@@ -65,7 +65,6 @@
 ##
 
 ### <h3>➤ Meu Game Card </h3> 
- 
 <a href="https://psnprofiles.com/VoidPrincess-"><img src="https://card.psnprofiles.com/2/VoidPrincess-.png" border="0" width="450px"></a>
 
 
