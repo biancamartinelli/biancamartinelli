@@ -24,7 +24,7 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=ff85a1&bar_color_cover=false&bar_color=ff85a1)](https://spotify-github-profile.vercel.app/api/view?uid=biancamartinelli.&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ec5dee&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
  ## <p align="left">
 </br><img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
