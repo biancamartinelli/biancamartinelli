@@ -42,7 +42,7 @@
 </br>
 <h1>➤ Skills </h1>
 <h3>Adobe</h3>
-<img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/se5bLaY.png">
+<img align="right" width="400px" src="https://i.imgur.com/se5bLaY.png">
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-xd.png" alt="adobe-xd"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-illustrator.png" alt="adobe-illustrator"/>
