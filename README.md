@@ -32,9 +32,9 @@
 
 🏢 Atualmente, trabalho como UI/UX Designer na Elevcode, colaborando em projetos de design de interfaces para diversas plataformas e aplicativos, otimizando interfaces para proporcionar uma experiência excepcional aos usuários.
 
-⭐️ Apaixonada por UI/UX, com foco em design de produto e design system. 
+⭐️ Apaixonada por UI/UX, com foco em design de produto, design system e design de jogos. 
 
-🌈 Proficiente no Figma, Adobe XD, Photoshop, Illustrator e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
+🌈 Proficiente no Figma, Adobe Xd, Framer e Canvas. Estou em constante aprendizado, inclusive explorando a aplicação de IA para aprimorar meus processos e trabalhos.
 
 🎮 Amo jogar (mas sou péssima em todos eles) e adoro ir atrás da platinas.
 
@@ -53,14 +53,11 @@
 
 ##
 <h3>Software criativo</h3>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/figma.png" alt="figma"/>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/canva.png" alt="canva"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=Q3jLjZC5migy&format=png&color=000000" alt="figma"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=1x4AwySR5X3B&format=png&color=000000" alt="framer"/>
+<img width="48" height="48" src="https://img.icons8.com/?size=100&id=aI0idEmvpoEZ&format=png&color=000000" alt="canva"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/chatgpt.png" alt="chatgpt"/>
 
-##
-<h3>Microsoft</h3>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-word.png" alt="ms-word"/>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-powerpoint.png" alt="ms-powerpoint"/>
 
 ##
 ### <h3>➤ Meu Game Card </h3> 
