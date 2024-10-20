@@ -39,10 +39,11 @@
 🎮 Amo jogar (mas sou péssima em todos eles) e adoro ir atrás da platinas.
 
 ![](https://komarev.com/ghpvc/?username=biancamartinelli&color=ff69b4&style=plastic)
+##
 </br>
 <img align="right" width="380px" style="margin-top:-20px" src="https://i.imgur.com/se5bLaY.png">
-<h1>➤ Skills </h1>  
 
+### ➤ Skills
 <h3>Adobe</h3>
 
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-photoshop.png" alt="adobe-photoshop"/>
@@ -51,7 +52,7 @@
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-indesign.png" alt="adobe-indesign"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/adobe-after-effects.png" alt="adobe-after-effects"/>
 
-##
+
 <h3>Software criativo</h3>
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=Q3jLjZC5migy&format=png&color=000000" alt="figma"/>
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=1x4AwySR5X3B&format=png&color=000000" alt="framer"/>
