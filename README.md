@@ -30,7 +30,7 @@
 
 🎃Sou uma estudante apaixonada por tecnologia e criação! Minha criatividade vai além do que você espera! 
 
-🏢 Atualmente, trabalho como UI/UX Designer na Elevcode, colaborando em projetos de design de interfaces para diversas plataformas e aplicativos, otimizando interfaces para proporcionar uma experiência excepcional aos usuários.
+🏢 Atualmente, trabalho como UI/UX Designer na DesignwithBlink, colaborando em projetos de design de interfaces para diversas plataformas e aplicativos, otimizando interfaces para proporcionar uma experiência excepcional aos usuários.
 
 ⭐️ Apaixonada por UI/UX, com foco em design de produto, design system e design de jogos. 
 
